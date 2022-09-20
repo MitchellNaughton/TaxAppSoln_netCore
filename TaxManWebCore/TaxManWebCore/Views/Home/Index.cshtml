@@ -1,0 +1,66 @@
+﻿@model ISalaryReturnModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Calculate your net salary</h1>
+    <p>Enter your annual salary before tax and see what your tax paid and net salary is.</p>
+</div>
+
+<form class="form" method="post">
+    <div class="form-element">
+        <label for="inpSalary">
+            Salary
+        </label>
+        <input type="number" step="0.01" name="inpSalary" id="inpSalary" />
+        <button type="submit" class="button">Calculate</button>
+    </div>
+</form>
+
+<div class="results-table">
+    <table>
+        <tbody>
+            <tr>
+                <th>
+                    Gross salary
+                </th>
+                <td>
+                    @Model.dcGrossSal
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Gross tax
+                </th>
+                <td>
+                    @Model.dcGrossTaxPd
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Net salary
+                </th>
+                <td>
+                    @Model.dcNetSal
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Monthly net salary
+                </th>
+                <td>
+                    @Model.dcMnthNetSal
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Monthly tax paid
+                </th>
+                <td>
+                    @Model.dcMnthTaxPd
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
