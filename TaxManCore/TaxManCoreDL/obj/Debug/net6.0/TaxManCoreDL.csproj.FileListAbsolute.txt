@@ -1,0 +1,12 @@
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.csproj.AssemblyReference.cache
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.AssemblyInfo.cs
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\bin\Debug\net6.0\TaxManCoreDL.deps.json
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\bin\Debug\net6.0\TaxManCoreDL.dll
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\bin\Debug\net6.0\TaxManCoreDL.pdb
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.dll
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\refint\TaxManCoreDL.dll
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\TaxManCoreDL.pdb
+C:\Users\mitch\source\repos\TaxManCore\TaxManCoreDL\obj\Debug\net6.0\ref\TaxManCoreDL.dll
